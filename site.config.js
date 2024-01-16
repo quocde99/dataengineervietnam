@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "quocde-blog",
-    description: "welcome to quocde-log!",
+    title: "dataengineer",
+    description: "welcome to data engineer blog!",
   },
 
   // CONFIG configration (required)
