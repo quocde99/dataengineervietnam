@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "data engineer vietnam",
+    title: "dataengineer",
     description: "welcome to data engineer blog!",
   },
 
